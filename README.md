@@ -1,20 +1,20 @@
-### NoSQL-challenge
+## NoSQL-challenge
 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
-## For this challenge I did the following:
+### For this challenge I did the following:
 
-### Part 1 Database & Jupyter Notebook Setup
+## Part 1 Database & Jupyter Notebook Setup
 
 Imported the data from establishments.json and setup the database and collection from the data that was imported.
 
-### Part 2 Updating the database
+## Part 2 Updating the database
 
 Used Mongo, PyMongo, Python, & Pandas to update the database
 Updated Business ID field
 Converted the latitude, longitude, and rating values types to decimal and integer respectively
 
-### Part 3: Exploratory Analysis
+## Part 3: Exploratory Analysis
 
 Used queries to find which establishments Hygiene scores were equal to 20.
 Used queries to find which establishments rating values scores were greater than or equal to 4.
